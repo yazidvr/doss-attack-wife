@@ -8,9 +8,8 @@
 
 # chmod +x * 
 
-# sudo su
 
-# bash install.sh
+# sudo bash install.sh
 
-# bash PwrDeauther.sh 
+# sudo bash PwrDeauther.sh 
 
