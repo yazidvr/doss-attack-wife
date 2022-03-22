@@ -4,7 +4,7 @@
 # -----------------------------------------------------------------------------------
 # git clone https://github.com/yazidvr/doss-attack-wife.git
 
-# cd 1doss-attack-wife
+# cd doss-attack-wife
 
 # chmod +x * 
 
