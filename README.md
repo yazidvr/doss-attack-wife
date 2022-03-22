@@ -1,10 +1,10 @@
 # wifi-spam
 
 # coded by :yazid
+# -----------------------------------------------------------------------------------
+# git clone https://github.com/yazidvr/doss-attack-wife.git
 
-# giy clone https://github.com/yazidvr/wifi-spam-.git
-
-#cd wifi-spam-
+# cd 1doss-attack-wife
 
 # chmod +x * 
 
